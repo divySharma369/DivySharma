@@ -23,4 +23,4 @@
 
 ### 🔗 Connect With Me
 - LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourusername.github.io
+- Portfolio: https://divysharma.github.io
